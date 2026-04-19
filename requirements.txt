@@ -1,6 +1,6 @@
 streamlit
 pandas
 numpy
-scikit-learn==1.3.0
+scikit-learn
 plotly
-PyPDF2==3.0.1
+PyPDF2
